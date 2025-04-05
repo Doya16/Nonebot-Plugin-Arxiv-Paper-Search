@@ -1,4 +1,4 @@
-# NoneBot Plugin - Arxiv Digest
+# Nonebot-Plugin  Arxiv Paper Search
 
 🔍 基于 [NoneBot2](https://v2.nonebot.dev/) 的插件，支持从 arXiv 获取指定分类的最新论文摘要，适用于科研讨论群、AI/ML 技术交流群等。
 
